@@ -1,4 +1,4 @@
 # Instacart Executive PowerBI Dashboard
 
 
-![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/f6edb567e27fa8b0027da5278e1b65d02bd54230/Greenleaf%20KPI%20Dashboard%20Overview_Remake.png)
+![image](https://github.com/debraville7/Instacart-Executive-Dashboard/blob/eef5b240d37da82c5265cbf6c05f0a203d25f01d/Instacart%20PowerBI%20Dashboard%20Image.png)
